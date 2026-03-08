@@ -5,7 +5,7 @@ about it on LinkedIn. But almost nobody understands what is actually
 happening underneath. So I built one from scratch to show you exactly 
 how it works.
 
-No cloud. No API. No PyTorch. Just Python, numpy, a couple hundred 
+No cloud. No API. No PyTorch. Just Python, numpy, 139 
 lines of code, and one paragraph of text.
 
 ## What is an LLM
